@@ -589,8 +589,8 @@ Note: None of the above options appear to be correct. A correct answer would be 
 - [x] colon
 - [ ] space
 - [ ] semicolon
-- [ ] comma
-
+- [*] comma
+#### comma?
 #### Q47. What character separates keys from values?
 
 - [x] :
