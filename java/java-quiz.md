@@ -576,7 +576,7 @@ class Main {
 
 **Explanation**: The `java.util.Arrays.asList(T... a)` returns a fixed-size list backed by the specified array. (Changes to the returned list "write through" to the array.)
 
-#### Q36. What is the output of this code?
+#### ??? Q36. What is the output of this code?
 
 ```java
 class Main {
