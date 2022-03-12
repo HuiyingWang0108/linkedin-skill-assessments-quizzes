@@ -673,7 +673,7 @@ theList.forEach(System.out::println);
 - [x] final
 - [ ] private
 
-#### Q42. How does the keyword `volatile` affect how a variable is handled?
+#### ??? Q42. How does the keyword `volatile` affect how a variable is handled?
 
 - [ ] It will be read by only one thread at a time.
 - [ ] It will be stored on the hard drive.
