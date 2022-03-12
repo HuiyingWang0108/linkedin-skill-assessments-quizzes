@@ -388,7 +388,7 @@ public class Jedi {
 
   **Note:** This code won't compile, possibly broken code sample.
 
-#### Q24. Which statement is **NOT** true?
+#### !!! Q24. Which statement is **NOT** true?
 
 - [ ] An anonymous class may specify an abstract base class as its base type.
 - [x] An anonymous class does not require a zero-argument constructor.
