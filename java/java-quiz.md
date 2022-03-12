@@ -924,7 +924,21 @@ static void swapsies(int a, int b) {
 - [x] 5 10
 - [ ] 10 5
 - [ ] 5 5
+##### explanation:
+	```java
+	public static void main(String[] args) {
+		int x=5,y=10;
+		swapsies(x,y);
+		System.out.println(x+" "+y);
+	    }
 
+	    static void swapsies(int a, int b) {
+		int temp=a;
+		a=b;
+		b=temp;
+		System.out.println(a+" "+b);
+		}
+	```
 #### Q60. What is the result of this code?
 
 ```java
