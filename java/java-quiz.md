@@ -929,14 +929,14 @@ static void swapsies(int a, int b) {
 	public static void main(String[] args) {
 		int x=5,y=10;
 		swapsies(x,y);
-		System.out.println(x+" "+y);
+		System.out.println(x+" "+y);//5 10
 	    }
 
 	    static void swapsies(int a, int b) {
 		int temp=a;
 		a=b;
 		b=temp;
-		System.out.println(a+" "+b);
+		System.out.println(a+" "+b);//10 5
 		}
 	```
 #### Q60. What is the result of this code?
