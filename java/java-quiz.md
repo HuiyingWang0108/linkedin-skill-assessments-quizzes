@@ -904,7 +904,7 @@ public class MagicPower {
 - [x] class
 - [ ] method
 
-#### Q59. What does this code print?
+#### ??? Q59. What does this code print?
 
 ```java
 public static void main(String[] args) {
