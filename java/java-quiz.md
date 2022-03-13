@@ -1524,10 +1524,18 @@ class Main {
                 list.remove( value );
             }
         }
+<!-- 	Iterator<String> iterator = list.iterator();
+    while(iterator.hasNext()){
+        if(iterator.next().equals("a")){
+            iterator.remove();
+        }
+
+    } -->
         System.out.println(list); // outputs [b,c]
     }
 }
 ```
+ 
 
 - [ ] String should be compared using == method instead of equals.
 - [x] Modifying a collection while iterating through it can throw a ConcurrentModificationException.
