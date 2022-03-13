@@ -1460,7 +1460,8 @@ class Lambo extends Car {
 - [ ] A constructor does not define a return value.
 - [x] Every class must explicitly define a constructor without parameters.
 
-#### Q104. What language feature allows types to be parameters on classes, interfaces, and methods in order to reuse the same code for different data types?
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `104`
+#### ??? Q104. What language feature allows types to be parameters on classes, interfaces, and methods in order to reuse the same code for different data types?
 
 - [ ] Regular Expressions
 - [ ] Reflection
