@@ -1,5 +1,16 @@
 ## Java
+#### Q01. What function could you use to replace slashes for dashes in a list of dates?
+```java
+List<String> dates = new ArrayList<String>();
+//missing code
+dates.replaceAll(replaceSlashed);
+```
 
+- [ ] Consumer<Date> replaceSlashed = date -> date.replace("/", "-");
+- [ ] Map<String, String> replaceSlashed = dates.replace("/", "-");
+- [x] UnaryOperator<String> replaceSlashed = date -> date.replace("/", "-");
+- [ ] Function<String, String> replaceSlashed = dates.replace("/", "-");
+	
 #### Q1. Given the string "strawberries" saved in a variable called fruit, what would `fruit.substring(2, 5)` return?
 
 - [ ] rawb
