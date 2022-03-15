@@ -10,6 +10,19 @@ dates.replaceAll(replaceSlashed);
 - [ ] Map<String, String> replaceSlashed = dates.replace("/", "-");
 - [x] UnaryOperator<String> replaceSlashed = date -> date.replace("/", "-");
 - [ ] Function<String, String> replaceSlashed = dates.replace("/", "-");
+
+#### Q02. The _ runs compiled Java code, while the _ compiles Java files.
+- [ ] JRE; JDK
+- [ ] JDK; IDE
+- [ ] IDE; JRE
+- [ ] JDK; JRE
+
+#### Q03. Which is not one of the standard streams provided by java.lang.System?
+- [ ] in
+- [ ] err
+- [ ] out
+- [x] print
+**Reasoning:** https://www.geeksforgeeks.org/java-lang-system-class-java/
 	
 #### Q1. Given the string "strawberries" saved in a variable called fruit, what would `fruit.substring(2, 5)` return?
 
