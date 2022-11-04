@@ -747,8 +747,8 @@ Note: an alternative for Q13.
 #### Q62. What is an advantage of using inline CSS?
 
 - [ ] It is easier to manage.
-- [x] It is easier to add multiple styles through it.
-- [ ] It can be used to quickly test local CSS overrides.
+- [ ] It is easier to add multiple styles through it.
+- [x] It can be used to quickly test local CSS overrides.
 - [ ] It reduces conflict with other CSS definition methods.
 
 #### Q63.Which W3C status code represents a CSS specification that is fully implemented by modern browsers?
